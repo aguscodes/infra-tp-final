@@ -1,10 +1,8 @@
-# Ingeniería de Datos y Visualización – Google Cloud Platform
-
-Proyecto académico para la Licenciatura en Ciencia de Datos (UNSAM).
+# Argentina Ideal
 
 ## ¿De qué se trata?
 
-Pipeline de datos end-to-end construido sobre un caso de negocio simulado: una empresa distribuidora ("Argentina Ideal") que necesita análisis financiero y operativo urgente ante un escenario macroeconómico crítico. El proyecto cubre desde la ingesta de datos hasta dashboards ejecutivos, todo dentro de Google Cloud Platform.
+Una empresa distribuidora "Argentina Ideal" necesita análisis financiero y operativo urgente ante un escenario macroeconómico crítico. El proyecto cubre desde la ingesta de datos hasta dashboards ejecutivos, todo dentro de Google Cloud Platform.
 
 ## Arquitectura
 
